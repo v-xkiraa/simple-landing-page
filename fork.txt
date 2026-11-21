@@ -1,0 +1,4 @@
+Ini adalah percobaan fork pertama saya.
+Fork adalah pengambilan/duplikasi repositori milik orang lain dan menambahkannya ke akun kita.
+Kita bisa bebas mengelola repositori yang telah di-fork tanpa terlihat oleh owner, kecuali owner melihat langsung ke akun kita.
+Aktivitas commit pada repository hasil forking tidak akan terlihat juga, kecuali kita mengajukan pull request ke owner.
